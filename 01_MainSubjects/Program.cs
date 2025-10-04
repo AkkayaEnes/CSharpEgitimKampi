@@ -43,10 +43,10 @@ namespace _01_MainSubjects
 
             //customerName = "Enes";
             //customerSurname = "Akkaya";
-            //customerPhone = "+90 536 945 9467";
+            //customerPhone = "+90 XXX XXX XX XX";
             //customerEmail = "Akkayaakkaya789@gmail.com";
-            //customerdistrict = "Hasköy";
-            //customercity = "Ankara";
+            //customerdistrict = "XXXXX";
+            //customercity = "XXXX";
 
             //Console.WriteLine("**** Rezervasyon Kartı ****");
             //Console.WriteLine("");
@@ -58,7 +58,7 @@ namespace _01_MainSubjects
             //Console.WriteLine("-------------------------------------------------");
             //Console.WriteLine("");
             //customerName = "Nur";
-            //customerSurname = "Aygör";
+            //customerSurname = "XXXXX";
             //customerPhone = "+90 542 658 7496";
             //customerEmail = "test@gmail.com";
             //customerdistrict = "Mamak";
