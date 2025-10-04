@@ -116,9 +116,15 @@ namespace _01_MainSubjects
             Console.WriteLine("--------- Hesap Tutarı ----------");
             Console.WriteLine("Hamburger: " + totalHamburgerPrice);
             Console.WriteLine("Kola: " + totalCokePrice);
-
+            Console.WriteLine("Su: " + totalWaterPrice);
+            Console.WriteLine("");
+            Console.WriteLine("Toplam Tutar: " + totalPrice);
+            Console.WriteLine("");
+            Console.WriteLine("---------------------------------");
 
             #endregion
+
+
             Console.Read();
         }
     }
