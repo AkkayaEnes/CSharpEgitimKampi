@@ -19,6 +19,10 @@ namespace _07_ForeachLoop
             //4: Lsite, Koleksiyon, Dizi
 
             #endregion
+
+
+            string[] cities = { "roma", "budapeşte", "İzmir", "Eskişehir", "Ağrı" }
+
         }
     }
 }
