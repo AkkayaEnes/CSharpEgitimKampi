@@ -21,7 +21,7 @@ namespace _07_ForeachLoop
             #endregion
 
 
-            string[] cities = { "roma", "budapeşte", "İzmir", "Eskişehir", "Ağrı" }
+            string[] cities = { "roma", "budapeşte", "İzmir", "Eskişehir", "Ağrı" };
 
         }
     }
