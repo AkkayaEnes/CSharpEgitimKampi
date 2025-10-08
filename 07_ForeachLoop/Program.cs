@@ -23,6 +23,11 @@ namespace _07_ForeachLoop
 
             string[] cities = { "roma", "budapeşte", "İzmir", "Eskişehir", "Ağrı" };
 
+            foreach (string city in cities)
+            {
+                Console.WriteLine(city);
+            }
+
         }
     }
 }
