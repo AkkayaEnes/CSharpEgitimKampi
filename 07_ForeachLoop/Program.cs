@@ -27,6 +27,7 @@ namespace _07_ForeachLoop
             {
                 Console.WriteLine(citys);
             }
+            Console.Read();
 
         }
     }
