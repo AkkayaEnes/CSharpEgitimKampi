@@ -30,8 +30,6 @@ namespace _07_ForeachLoop
             Console.Read();
 
 
-            Console.WriteLine("Hello World");
-
         }
     }
 }
