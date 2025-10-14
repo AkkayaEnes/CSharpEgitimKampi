@@ -97,6 +97,8 @@ namespace _07_ForeachLoop
                 ogrenciSinavOrt[i] = toplamSinavSonuc / 3;
 
             }
+            Console.Read();
+
 
             //Öğrencilerin ortalaması ve geçip kalma durumları
 
